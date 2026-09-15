@@ -29,7 +29,7 @@
     "async-mutex": "^0.5.0",
     "fflate": "^0.8.2",
 
-    "@skidy89/libsignal-plugins": "github:skidy89/libsignal-plugins"
+    "@skidy89/libsignal-plugins": "github:skidy89/libsignal-plugins",
 
 
     "long": "^5.2.3",
